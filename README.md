@@ -1,7 +1,7 @@
 # Agentic API
 
 ## Introduction
-The `Agentic API` repository is a vital component of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project, providing the interface for developers to interact with `.agent` domains. This repository focuses on enabling seamless communication between agents, managing domain data, and providing developer-friendly tools for building applications within the `.agent` ecosystem.
+The `Agentic API` repository is a vital component of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project, providing the interface for developers to interact with `.agent` domains. This repository focuses on enabling seamless communication between agents, managing domain data, and providing developer-friendly tools for building applications within the `.agent` ecosystem.
 
 ## Role in the Agentic Network
 The `Agentic API` acts as the primary gateway for agent-to-agent communication within the `.agent` namespace. It integrates with other components like the `.agent Registry` and `Agentic DNS` to facilitate secure, efficient, and scalable interactions for registered agents.
@@ -50,12 +50,12 @@ Agentic API
 We welcome contributions to the `Agentic API` repository. Please refer to the `CONTRIBUTING.md` file for details on how to get involved.
 
 ## Learn More
-Visit the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) repository to explore the full scope of the project and other related sub-repositories:
-- [.agent Registry](https://github.com/RWN-MD/AgenticNetwork/Agent-Registry)
-- [Agentic DNS](https://github.com/RWN-MD/AgenticNetwork/Agentic-DNS)
-- [Agentic Security](https://github.com/RWN-MD/AgenticNetwork/Agentic-Security)
-- [Agentic Branding](https://github.com/RWN-MD/AgenticNetwork/Agentic-Branding)
-- [Agentic White Papers](https://github.com/RWN-MD/AgenticNetwork/Agentic-White-Papers)
+Visit the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) repository to explore the full scope of the project and other related sub-repositories:
+- [.agent Registry](https://github.com/RWN-MD/Agent-Registry.git)
+- [Agentic DNS](https://github.com/RWN-MD/Agentic-DNS.git)
+- [Agentic Security](https://github.com/RWN-MD/Agentic-Security.git)
+- [Agentic Branding](https://github.com/RWN-MD/Agentic-Branding.git)
+- [Agentic White Papers](https://github.com/RWN-MD/Agentic-White-Papers.git)
 
 ---
-*This repository is part of the Agentic Network project and adheres to its overarching goals and principles.*
+*This repository is part of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project and adheres to its overarching goals and principles.*
